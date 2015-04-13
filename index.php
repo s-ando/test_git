@@ -3,7 +3,7 @@ class hoge
 {
     public function hogehoge(){
 
-        $test = 1;
+        $test = 'aaa';
 
         if(is_numeric($test)){
             echo $test;
